@@ -48,4 +48,4 @@ install desktop Xfce and vnc viewer
 ```
 apt update  ; apt install tigervnc-standalone-server xfce4 xfce4-terminal dbus-x11 -y
 ```
-
+<img src="https://raw.githubusercontent.com/codeplugs/Devuan/refs/heads/main/Screenshot_2025-05-21-02-11-33-776_com.termux.jpg"> 
