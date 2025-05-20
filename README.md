@@ -13,5 +13,22 @@ Copy and paste this commands to Termux
  <br/><p/>
 Rootfs : Arm64 (Aarch64)
 ```
-wget https://raw.githubusercontent.com/wahasa/Manjaro/refs/heads/main/Install/manjaro.sh ; chmod +x manjaro.sh ; ./manjaro.sh
+apt update ; apt install wget ; wget https://raw.githubusercontent.com/wahasa/Manjaro/refs/heads/main/Install/manjaro.sh ; chmod +x manjaro.sh ; ./manjaro.sh
+```
+
+
+---
+* Login Devuan
+```
+devuan
+```
+
+* Logout Devuan
+```
+exit
+```
+
+* Remove Devuan
+```
+chmod -R 775 devuan-fs ; rm -rf devuan-fs .devuan $PREFIX/bin/devuan
 ```
