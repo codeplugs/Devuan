@@ -32,3 +32,20 @@ exit
 ```
 chmod -R 775 devuan-fs ; rm -rf devuan-fs .devuan $PREFIX/bin/devuan
 ```
+---
+Basic commands Devuan
+> apt update : Update list package.</br>
+> apt upgrade : Upgrade package.</br>
+> apt search (pkg) : Search package.</br>
+> apt install (pkg) : Install package.</br>
+> apt autoremove (pkg) : Delete package.</br>
+> apt -h : Help all commands.
+
+---
+## Desktop Environment
+
+install desktop Xfce and vnc viewer
+```
+apt update  ; apt install tigervnc-standalone-server xfce4 xfce4-terminal dbus-x11 -y
+```
+
