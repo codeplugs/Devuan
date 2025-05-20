@@ -10,7 +10,7 @@
 ### Installation
 
 Copy and paste this commands to Termux
- <br/>
+ <br/><p/>
 Rootfs : Arm64 (Aarch64)
 ```
 wget https://raw.githubusercontent.com/wahasa/Manjaro/refs/heads/main/Install/manjaro.sh ; chmod +x manjaro.sh ; ./manjaro.sh
