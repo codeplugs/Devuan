@@ -49,4 +49,4 @@ install desktop Xfce and vnc viewer
 apt update  ; apt install tigervnc-standalone-server xfce4 xfce4-terminal dbus-x11 -y
 ```
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMbGvSK3udzrMCVr01fVvmv_70-4eAkI-g_k2kOmbFjhOB-Wy-gSHx2PufBVurlRx2NFaonGSUhNJo9J3MsjvKXxr227UkYKDq6Vg0PmXDV_L9sldLmuo3IqinEkZefn52is5LRnLmAZqvlnRXC6emM=w853-h1845-s-no?.jpg"> 
-if you want learn more vncserver on android <a href="https://gist.github.com/codeplugs/1578b6b46157295d6da06218c8a2bb8c">Click here</a>
+if you want to learn more vncserver on android <a href="https://gist.github.com/codeplugs/1578b6b46157295d6da06218c8a2bb8c">Click here</a>
