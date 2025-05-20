@@ -1,4 +1,4 @@
-<p align="center">My Channel</br><b> | <a href="https://m.facebook.com/codeplugs/">Facebook</a> |  <a href="https://m.youtube.com/@codeplug756">Youtube</a>
+<p align="center">My Channel</br><b> | <a href="https://m.facebook.com/codeplugs/">Facebook</a> |  <a href="https://m.youtube.com/@codeplug756">Youtube</a> |</b></p>
 
  --- 
 ## Devuan on Termux Android
