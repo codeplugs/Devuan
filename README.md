@@ -2,7 +2,7 @@
 
  --- 
 ## Devuan on Termux Android
- <img src="https://raw.githubusercontent.com/wahasa/Manjaro/refs/heads/main/Patch/Manjaro.jpg"> 
+ <img src="https://raw.githubusercontent.com/codeplugs/Devuan/refs/heads/main/Screenshot_2025-05-21-02-11-33-776_com.termux.jpg"> 
 
 * Install Apps on Android
      <p>install termux from F-Droid. or google drive https://drive.google.com/file/d/163kv3zp2MTkKhYxEwZ0oxWXk19_O_gAl/view?usp=drivesdk </p>
