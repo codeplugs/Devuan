@@ -6,3 +6,12 @@
 
 * Install Apps on Android
      <p>install termux from F-Droid. or google drive https://drive.google.com/file/d/163kv3zp2MTkKhYxEwZ0oxWXk19_O_gAl/view?usp=drivesdk </p>
+
+### Installation
+
+Copy and paste this commands to Termux
+ <br/>
+Rootfs : Arm64 (Aarch64)
+```
+wget https://raw.githubusercontent.com/wahasa/Manjaro/refs/heads/main/Install/manjaro.sh ; chmod +x manjaro.sh ; ./manjaro.sh
+```
