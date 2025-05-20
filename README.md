@@ -13,7 +13,7 @@ Copy and paste this commands to Termux
  <br/><p/>
 Rootfs : Arm64 (Aarch64)
 ```
-apt update ; apt install wget ; wget https://raw.githubusercontent.com/wahasa/Manjaro/refs/heads/main/Install/manjaro.sh ; chmod +x manjaro.sh ; ./manjaro.sh
+apt update ; apt install wget ; wget https://raw.githubusercontent.com/codeplugs/Devuan/refs/heads/main/devuan.sh ; chmod +x devuan.sh ; ./devuan.sh
 ```
 
 
