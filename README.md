@@ -5,5 +5,4 @@
  <img src="https://raw.githubusercontent.com/wahasa/Manjaro/refs/heads/main/Patch/Manjaro.jpg"> 
 
 * Install Apps on Android
-
-<br/> install termux from F-Droid. or google drive https://drive.google.com/file/d/163kv3zp2MTkKhYxEwZ0oxWXk19_O_gAl/view?usp=drivesdk
+     install termux from F-Droid. or google drive https://drive.google.com/file/d/163kv3zp2MTkKhYxEwZ0oxWXk19_O_gAl/view?usp=drivesdk
